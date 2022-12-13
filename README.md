@@ -12,9 +12,20 @@ By pressing the ```ESC``` you can get a fullscreen window of your matrix, the bu
 ![Random Blinking Matrix](media/221213_MAX_Jitter_Matrix2x.png)
 
 ## Sharing Videos With Your Blog
+When using GitHub Pages to run your blog you need to know that you cannot upload files that are bigger than 25MB. While this is no real limit for images, videos are quickly bigger than that limit.
+
+The easiest way to still publish your video is to save it on your Google Drive. 
 
 ![GoogleDrive Get a Link](media/221213_GoogleDrive_VidShare.png)
 
-Your video will then be accessible with a [link](https://drive.google.com/file/d/1W1AuV_wfASNAwVq1FYt0-5pXnlcyo7yS/view?usp=sharing)
+Once that is done, create a link by opening the context menu of your video, and then click on ```Copy Link```. Next, paste your link onto your website Check out how to do this with 
+
+- [HTML](https://www.w3schools.com/html/html_links.asp) or 
+- Markdown, depending on how you create your content.
+
+<script src="https://gist.github.com/sandrabosk/d79bd806c8b1b13ad9af1e590a26deb5.js"></script>
+
+
+Your video will then be accessible like this example [link](https://drive.google.com/file/d/1W1AuV_wfASNAwVq1FYt0-5pXnlcyo7yS/view?usp=sharing)
 
 
