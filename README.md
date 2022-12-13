@@ -30,6 +30,17 @@ You can also record inside of BEAP. Just open the BEAP menu at the left side of 
 
 
 
+## More Visual Effects with Vizzie
+
+Vizzie offers many effects that allow you to manipulate your video content. The image below shows a patch with the four effects Interpolation, Kaleidoscop, Delay and Sketch. When double-clicking on the object, the user interface for the respective objects opens in a new window. You can achieve very interesting effects while changing the parameter. A good starting point to understand what is happening is to find settings that do not alter the video content. But this is not possible for all four effects here.
+
+![Four Vizzie Effects](media/221213_VizzieEffects1.png)
+
+There are more effects available. Create a new object with entering ```n```, then type ```vz. ```. You will see more options. Create a new object, then call the help function to get more information on how to use the effect. Try it out!
+
+You can also concatenate effects (applying one effect after another) using the PATCHROUTR module. Have a look again at [last session's explanation](https://github.com/mibrs/GPC5L09/blob/main/README.md) on how to use the module.
+
+
 
 ## Sharing Videos With Your Blog
 When using GitHub Pages to run your blog you need to know that you cannot upload files that are bigger than 25MB. While this is no real limit for images, videos are quickly bigger than that limit.
