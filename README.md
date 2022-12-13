@@ -21,6 +21,8 @@ By pressing the ```ESC``` you can get a fullscreen window of your matrix, the bu
 
 ![Random Blinking Matrix](media/221213_MAX_Jitter_Matrix2x.png)
 
+### TO BE EDITED: Additinional block required to record the Jitter matrix, see [Recording Jitter](https://cycling74.com/tutorials/best-practices-in-jitter-part-2-recording-1)
+
 ## More about BEAP
 BEAP is the modularized audio processing platform. You can use it for sequencing, synthezising and many other applications. A good starting point is the ready-made syntheziser you can access by typing ```BEAP``` into the ```Help``` menu.
 
