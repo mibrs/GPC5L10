@@ -9,8 +9,10 @@ The object ```jit.noise 4 char 8 8``` sets also 4 planes defines the number of r
 
 By pressing the ```ESC``` you can get a fullscreen window of your matrix, the buttons and toggle switches allow you to control the frequency of the changes or do the changes manually.
 
-![Random Blinking Matrix](221213_MAX_Jitter_Matrix2x.png)
+![Random Blinking Matrix](media/221213_MAX_Jitter_Matrix2x.png)
 
-## 
+## Sharing Videos With Your Blog
+
+![GoogleDrive Get a Link](media/221213_GoogleDrive_VidShare.png)
 
 
