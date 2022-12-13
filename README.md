@@ -21,10 +21,7 @@ The easiest way to still publish your video is to save it on your Google Drive.
 Once that is done, create a link by opening the context menu of your video, and then click on ```Copy Link```. Next, paste your link onto your website Check out how to do this with 
 
 - [HTML](https://www.w3schools.com/html/html_links.asp) or 
-- Markdown, depending on how you create your content.
-
-<script src="https://gist.github.com/sandrabosk/d79bd806c8b1b13ad9af1e590a26deb5.js"></script>
-
+- [Markdown](https://gist.github.com/sandrabosk/d79bd806c8b1b13ad9af1e590a26deb5) depending on how you create your content.
 
 Your video will then be accessible like this example [link](https://drive.google.com/file/d/1W1AuV_wfASNAwVq1FYt0-5pXnlcyo7yS/view?usp=sharing)
 
