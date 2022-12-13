@@ -15,4 +15,6 @@ By pressing the ```ESC``` you can get a fullscreen window of your matrix, the bu
 
 ![GoogleDrive Get a Link](media/221213_GoogleDrive_VidShare.png)
 
+Your video will then be accessible with a [link](https://drive.google.com/file/d/1W1AuV_wfASNAwVq1FYt0-5pXnlcyo7yS/view?usp=sharing)
+
 
