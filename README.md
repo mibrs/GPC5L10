@@ -18,15 +18,15 @@ By pressing the ```ESC``` you can get a fullscreen window of your matrix, the bu
 ## Sharing Videos With Your Blog
 When using GitHub Pages to run your blog you need to know that you cannot upload files that are bigger than 25MB. While this is no real limit for images, videos are quickly bigger than that limit.
 
-The easiest way to still publish your video is to save it on your Google Drive. 
+The easiest way to still publish your video is to save it on your Google Drive and then provide a link for your blog.
 
 ![GoogleDrive Get a Link](media/221213_GoogleDrive_VidShare.png)
 
-Once that is done, create a link by opening the context menu of your video, and then click on ```Copy Link```. Next, paste your link onto your website Check out how to do this with 
+Once you have saved your video on your Google Drive, create a link by opening the context menu of your video in Google Drive, and then click on ```Copy Link```. Next, paste your link onto your website into a link tag. Check out how to do this with 
 
 - [HTML](https://www.w3schools.com/html/html_links.asp) or 
-- [Markdown](https://gist.github.com/sandrabosk/d79bd806c8b1b13ad9af1e590a26deb5) depending on how you create your content.
+- [Markdown](https://gist.github.com/sandrabosk/d79bd806c8b1b13ad9af1e590a26deb5).
 
-Your video will then be accessible like this example [link](https://drive.google.com/file/d/1W1AuV_wfASNAwVq1FYt0-5pXnlcyo7yS/view?usp=sharing)
+Your video will then be accessible like this example [link](https://drive.google.com/file/d/1W1AuV_wfASNAwVq1FYt0-5pXnlcyo7yS/view?usp=sharing).
 
 
