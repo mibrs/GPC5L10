@@ -32,7 +32,7 @@ You can also record inside of BEAP. Just open the BEAP menu at the left side of 
 
 ## More Visual Effects with Vizzie
 
-Vizzie offers many effects that allow you to manipulate your video content. The image below shows a patch with the four effects Interpolation, Kaleidoscop, Delay and Sketch. When double-clicking on the object, the user interface for the respective objects opens in a new window. You can achieve very interesting effects while changing the parameter. A good starting point to understand what is happening is to find settings that do not alter the video content. But this is not possible for all four effects here.
+Vizzie offers many effects that allow you to manipulate your video content. The patch ```221213_VidEffects1.maxpat``` has four effects, Interpolation, Kaleidoscop, Delay and Sketch. When double-clicking on the object, the user interface for the respective object opens in a new window. You can achieve very interesting effects while changing the parameters. A good starting point to understand what is happening is to find settings that do not alter the video content. But this is not achievable for all four effects here ... .
 
 ![Four Vizzie Effects](media/221213_VizzieEffects1.png)
 
