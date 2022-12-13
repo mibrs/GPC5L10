@@ -36,7 +36,7 @@ You can also record inside of BEAP. Just open the BEAP menu at the left side of 
 
 ![How to record audio inside of BEAP](media/221212_BEAP_RecordR_3.png)
 
-
+### TO BE EDITED: How to find the BEAP starter project on Windows machines, warning that some of the help/tutorials need to be installed and may not be available depending on the settings of the network environment.
 
 ## More Visual Effects with Vizzie
 
