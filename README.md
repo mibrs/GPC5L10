@@ -2,6 +2,12 @@
 
 This session gives you the chance to dive deeper into MAX and create your own small artefacts that you can later share with others. So do not forget to record your final product, audio or video, with the respective Output modules from BEAP or Vizzie. There are also other tools available on the computer if you prefer.
 
+## 2 Channel MIDI Patch
+The patch ```221213_SeqSimpleAndKeyboard``` combines a simple sequencer with a MIDI keyboard. Each instrument is running over a different MIDI Channel, so you can choose different instruments (MIDI term: programs) for each. Furthermore, you can adjust the velocity separately.
+
+![2Ch MIDI Patch](media/221213_2ChMidiPatch.png)
+
+
 ## A Random Blinking Matrix - Jitter Video
 This sketch uses Jitter, the underlying objects running Vizzie. 
 
