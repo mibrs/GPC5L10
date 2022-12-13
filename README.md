@@ -2,7 +2,7 @@
 
 This session gives you the chance to dive deeper into MAX and create your own small artefacts that you can later share with others. So do not forget to record your final product, audio or video, with the respective Output modules from BEAP or Vizzie. There are also other tools available on the computer if you prefer.
 
-## 1. A Random Blinking Matrix
+## A Random Blinking Matrix - Jitter Video
 This sketch uses Jitter, the underlying objects running Vizzie. 
 
 For each video, Jitter creates a matrix with four planes, each the size of the display. The planes are overlayed and add up to get a visible image. One plane represents the intensity [0/0.0 -> dark, 255/1.0 -> bright] the other three the basic colours (RGB, short for **R**ed, **G**reen, **B**lue). You can find more about this [here](https://docs.cycling74.com/max8/tutorials/jitterchapter00a_whatisamatrix).
@@ -14,6 +14,22 @@ The object ```jit.noise 4 char 8 8``` sets also 4 planes defines the number of r
 By pressing the ```ESC``` you can get a fullscreen window of your matrix, the buttons and toggle switches allow you to control the frequency of the changes or do the changes manually.
 
 ![Random Blinking Matrix](media/221213_MAX_Jitter_Matrix2x.png)
+
+## More about BEAP
+BEAP is the modularized audio processing platform. You can use it for sequencing, synthezising and many other applications. A good starting point is the ready-made syntheziser you can access by typing ```BEAP``` into the ```Help``` menu.
+
+![How to get the BEAP Intro](media/221212_BEAP_FindIt_1.png)
+
+This patch invites you to play around with the various settings, by clicking on ```BEAP Analog Model Curriculum``` you get access to a website that explains the basics of sound synthesis with BEAP. The ```Help``` and ```Example``` sections, accessible at the left bottom of the patch, give you easy access to many different patches.
+
+![The BEAP Intro Patch](media/221212_BEAP_Intro_2.png)
+
+You can also record inside of BEAP. Just open the BEAP menu at the left side of the MAX window, go to Output and select the RecordR module. Then patch it the last Output outlets before the Stereo module. 
+
+![How to record audio inside of BEAP](media/221212_BEAP_RecordR_3.png)
+
+
+
 
 ## Sharing Videos With Your Blog
 When using GitHub Pages to run your blog you need to know that you cannot upload files that are bigger than 25MB. While this is no real limit for images, videos are quickly bigger than that limit.
